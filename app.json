@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/user/user",
+    "pages/canvas/canvas"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#b7ff4a",
+    "navigationBarTitleText": "My WXAPP",
+    "navigationBarTextStyle": "black"
+  }
+}

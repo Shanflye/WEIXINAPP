@@ -1,0 +1,4 @@
+/* pages/user/user.wxss */
+[bindtap]{
+  background-color: red;
+}

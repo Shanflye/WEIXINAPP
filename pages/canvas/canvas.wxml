@@ -1,0 +1,2 @@
+<!--pages/canvas/canvas.wxml-->
+<canvas bindtap='onclick' canvas-id='cvs' width='2000' height='2000' bindtouchmove='onmousemove' bindtouchstart='onmousedown' bindtouchend='onmouseup' bindlongpress='clear' class="paint"></canvas>

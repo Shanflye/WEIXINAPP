@@ -1,0 +1,7 @@
+<scroll-view>
+<button bindtap="getPosition">获取当前位置</button>
+  <navigator>您的当前位置：{{position}}</navigator>
+  <view>
+    <button bindtap="showAlert">显示提示框</button>
+  </view>
+</scroll-view>

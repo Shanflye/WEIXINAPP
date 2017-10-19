@@ -1,0 +1,6 @@
+/* pages/canvas/canvas.wxss */
+.paint{
+  background-color: #eee;
+  width:360px;
+  height: 525px;
+}
